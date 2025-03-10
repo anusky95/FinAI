@@ -58,8 +58,6 @@
 ## **🌎 Community & Contributions**
 📢 **Join the discussion and help build the largest Finance AI resource hub!**  
 
-- 💬 **[Join our Discord](#)**  
-- 🔗 **[Follow us on LinkedIn](#)**  
 - 🤝 **[Contribute to the Repo](CONTRIBUTING.md)**  
 
 💡 **Star this repo ⭐ | Fork 🍴 | Share 💬 | Contribute ✍️**  
