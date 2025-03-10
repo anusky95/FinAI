@@ -2,10 +2,6 @@
 
 *A curated collection of AI tools, research, datasets, and resources for Finance AI, including LLMs, trading bots, risk analysis, fraud detection, and regulatory compliance.*
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/FinAI?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/FinAI?style=social)  
-![GitHub License](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/FinAI)  
-
 ---
 
 ## 📖 Table of Contents
