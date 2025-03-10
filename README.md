@@ -42,48 +42,13 @@
 - [SEC EDGAR Filings](https://www.sec.gov/edgar.shtml) - Regulatory filings and financial reports  
 - [Yahoo Finance API](https://www.yahoofinanceapi.com/) - Real-time and historical market data  
 - [Federal Reserve (FRED)](https://fred.stlouisfed.org/) - Macroeconomic indicators and financial trends
-- 
-- **[Finance-Instruct-500k](https://huggingface.co/datasets/Josephgflowers/Finance-Instruct-500k)**  
-  A dataset containing 500,000 instruction-based financial data points, useful for fine-tuning models on financial tasks.  
-
-- **[finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca)**  
-  Combines Stanford's Alpaca dataset with FiQA and additional GPT-3.5 generated pairs, totaling 68,912 entries for financial instruction tuning.  
-
-- **[financebench](https://huggingface.co/datasets/PatronusAI/financebench)**  
-  A benchmark dataset designed to evaluate financial analysis capabilities of large language models, focusing on numerical reasoning and financial tasks.  
-
-- **[Finance-Tasks](https://huggingface.co/datasets/AdaptLLM/finance-tasks)**  
-  Evaluation datasets from the paper "Adapting Large Language Models via Reading Comprehension," targeting financial domains.  
-
-- **[Sujet-Finance-Instruct-177k](https://huggingface.co/datasets/sujet-ai/Sujet-Finance-Instruct-177k)**  
-  A comprehensive dataset with 177,597 entries designed for fine-tuning language models on specialized financial tasks.  
-
-- **[Sujet-Finance-Vision-10k](https://huggingface.co/datasets/sujet-ai/Sujet-Finance-Vision-10k)**  
-  A collection of 9,819 financial document images with textual annotations, aimed at training vision-language models in finance.  
-
-- **[synthetic_pii_finance_multilingual](https://huggingface.co/datasets/gretelai/synthetic_pii_finance_multilingual)**  
-  A synthetic dataset containing multilingual financial documents with personally identifiable information (PII), useful for privacy-preserving model training.  
-
-- **[financial_phrasebank](https://huggingface.co/datasets/takala/financial_phrasebank)**  
-  Consists of 4,840 sentences from financial news, labeled by sentiment, aiding in financial sentiment analysis tasks.  
-
-- **[financial-reports-sec](https://huggingface.co/datasets/JanosAudran/financial-reports-sec)**  
-  Contains annual reports of U.S. public firms filed with the SEC EDGAR system from 1993-2020, segmented into sections and sentences with sentiment labels.  
-
-- **[financial-qa-10K](https://huggingface.co/datasets/virattt/financial-qa-10K)**  
-  A dataset comprising 10,000 question-answer pairs extracted from financial documents, focusing on financial question-answering tasks.  
-
-- **[FinanceQA](https://huggingface.co/datasets/AfterQuery/FinanceQA)**  
-  A benchmark dataset for evaluating financial analysis capabilities of large language models, focusing on complex numerical tasks.  
-
-- **[FiNER-ORD](https://huggingface.co/datasets/agamsh/FiNER-ORD)**  
-  The Financial Named Entity Recognition Open Research Dataset, designed to enhance NER tasks in the financial domain.  
-
-- **[NIFTY Financial News Headlines Dataset](https://huggingface.co/datasets/raeidsaqur/NIFTY)**  
-  A dataset designed to facilitate research in financial market forecasting using large language models, comprising financial news headlines with metadata.  
-
-- **[MBD: Multimodal Banking Dataset](https://huggingface.co/datasets/ai-lab/MBD)**  
-  An industrial-scale multimodal banking dataset containing over 1.5 million corporate clients with various modalities, including transactions and geo-position events.  
+- [Argimi-Ardian-Finance-10k-text](https://huggingface.co/datasets/artefactory/Argimi-Ardian-Finance-10k-text) - A dataset containing 10,000 financial documents in text format, useful for NLP tasks in finance.
+- [finance-task](https://huggingface.co/datasets/mssongit/finance-task) - A dataset designed for financial NLP and machine learning tasks.
+- [Argimi-Ardian-Finance-10k-text-image](https://huggingface.co/datasets/artefactory/Argimi-Ardian-Finance-10k-text-image) - A dataset of 10,000 financial document images with text annotations for OCR and vision-language tasks.
+- [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca) - Combines Stanford's Alpaca dataset with FiQA and additional GPT-3.5 generated pairs, totaling 68,912 entries for financial instruction tuning.
+- [finance-tasks](https://huggingface.co/datasets/AdaptLLM/finance-tasks) - Evaluation datasets from the paper "Adapting Large Language Models via Reading Comprehension," targeting financial domains.
+- [IndustryCorpus_finance](https://huggingface.co/datasets/BAAI/IndustryCorpus_finance) - A large-scale dataset containing 32.6 million financial documents for industry-specific NLP tasks.
+- [FinanceRAG-Lingua](https://huggingface.co/datasets/thomaskim1130/FinanceRAG-Lingua) - A finance-specific dataset designed for Retrieval-Augmented Generation (RAG) tasks, including financial document search and analysis.
 
 
 ---
