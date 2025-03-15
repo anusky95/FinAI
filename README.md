@@ -57,7 +57,8 @@
 🔍 **AI-driven models for financial risk assessment and fraud prevention.**  
 - [AI for AML Compliance](https://github.com/) - AI-driven tools for anti-money laundering detection  
 - [Credit Risk Modeling with AI](https://papers.ssrn.com/) - Using machine learning for predicting loan defaults  
-- [Fraud Detection Dataset](https://www.kaggle.com/datasets) - Public dataset for training fraud detection models  
+- [Fraud Detection Dataset](https://www.kaggle.com/datasets) - Public dataset for training fraud detection models
+- [PII protection] (https://github.com/microsoft/presidio) - Context aware, pluggable and customizable PII de-identification service for text and images.
 
 ---
 
