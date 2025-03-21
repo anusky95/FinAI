@@ -15,7 +15,7 @@
 - [📈 AI Trading & Quant Strategies](#-ai-trading--quant-strategies)  
 - [⚖️ Regulatory Compliance & Legal AI](#-regulatory-compliance--legal-ai)  
 - [🧠 Explainability & Ethical AI](#-explainability--ethical-ai)  
-- [🛠 Open-Source Finance AI Tools](#-open-source-finance-ai-tools)  
+- [🛠 Open-Source Finance AI Tools](#-open-source-finance-ai-tools)
 - [📖 Learning Resources & Tutorials](#-learning-resources--tutorials)  
 - [🌎 Community & Contributions](#-community--contributions)  
 
@@ -108,6 +108,13 @@
 - [Finance AI Crash Course](https://www.coursera.org/) - Free and paid courses on finance and AI  
 
 ---
+## 🔥 Original Contributions (Coming Soon!)
+Stay tuned for original, contributions including:
+- **FinBench** – Custom benchmark suite evaluating financial LLMs.
+- **FinRAG** – Retrieval-Augmented Generation (RAG) pipeline for accurate finance document retrieval.
+- **FinContrib** – Finance AI plugins and integrations ecosystem. 
+*(These original tools are under active development—follow/star this repo to get updates!)*
+
 
 ## 🌎 Community & Contributions  
 📢 **Join the discussion and help build the largest Finance AI resource hub!**  
