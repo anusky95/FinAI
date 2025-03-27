@@ -26,6 +26,7 @@
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open-source financial LLM for sentiment analysis and forecasting  
 - [BloombergGPT](https://arxiv.org/abs/2303.17564) - Bloomberg's proprietary financial LLM  
 - [FinBERT](https://huggingface.co/) - NLP model fine-tuned for financial sentiment analysis  
+- [Finance-LLM by AdaptLLM (HuggingFace)](https://huggingface.co/AdaptLLM/finance-LLM)
 
 ---
 
@@ -34,6 +35,8 @@
 - [LLM-Based Market Sentiment Analysis](https://arxiv.org/) - Using LLMs to analyze financial news sentiment  
 - [RAG for Financial Reports](https://paperswithcode.com/) - Leveraging Retrieval-Augmented Generation for financial document search  
 - [AI in Risk Management](https://ssrn.com/) - Research on AI-driven financial risk assessment  
+- [Leveraging Retrieval-Augmented Generation for Financial Question Answering (Stanford CS224n, 2024)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/final-reports/256911814.pdf) - RAG for Financial Q/A
+
 
 ---
 
@@ -66,7 +69,8 @@
 📜 **Retrieval-Augmented Generation (RAG) for financial document analysis.**  
 - [Finance RAG Pipeline](https://github.com/) - Open-source framework for financial document search  
 - [LLM-Powered Earnings Call Summarization](https://arxiv.org/) - AI-driven NLP for analyzing earnings reports  
-- [Investment Research RAG](https://paperswithcode.com/) - AI for summarizing investor reports  
+- [Investment Research RAG](https://paperswithcode.com/) - AI for summarizing investor reports
+- []
 
 ---
 
