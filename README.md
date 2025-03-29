@@ -36,8 +36,8 @@
 - [RAG for Financial Reports](https://paperswithcode.com/) - Leveraging Retrieval-Augmented Generation for financial document search  
 - [AI in Risk Management](https://ssrn.com/) - Research on AI-driven financial risk assessment  
 - [Leveraging Retrieval-Augmented Generation for Financial Question Answering (Stanford CS224n, 2024)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/final-reports/256911814.pdf) - RAG for Financial Q/A
--[Revolutionizing Finance with Conversational AI](https://www.nature.com/articles/s41599-025-04725-y) - ChatGPT implementation & Challenges
-
+- [Revolutionizing Finance with Conversational AI](https://www.nature.com/articles/s41599-025-04725-y) - ChatGPT implementation & Challenges
+- [A sentiment analysis approach to the prediction of market volatility](https://www.frontiersin.org/articles/10.3389/frai.2022.836809/full)
 ---
 
 ## 📊 Financial Datasets  
