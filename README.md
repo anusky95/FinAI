@@ -105,6 +105,16 @@
 
 ---
 
+## 💼 Vendor AI Tools for Finance  
+⚙️ **AI-powered platforms and commercial tools transforming financial services.**
+
+- [Hebbia – AI Solutions for Financial Services](https://www.hebbia.com/industry/finance) – Enterprise platform for parsing financial documents and accelerating due diligence  
+- [Kensho Technologies](https://www.kensho.com/) – S&P Global's AI-powered analytics for financial decision-making  
+- [Upstart](https://www.upstart.com/) – AI underwriting for personal and auto loans  
+- [Zest AI](https://www.zest.ai/) – Machine learning credit underwriting platform for lenders  
+
+---
+
 ## 📖 Learning Resources & Tutorials  
 🎓 **Guides, tutorials, and courses for learning AI in finance.**  
 - [Fine-Tuning FinGPT](https://github.com/) - Step-by-step guide on training FinGPT  
