@@ -109,9 +109,20 @@
 ⚙️ **AI-powered platforms and commercial tools transforming financial services.**
 
 - [Hebbia – AI Solutions for Financial Services](https://www.hebbia.com/industry/finance) – Enterprise platform for parsing financial documents and accelerating due diligence  
+- [RavenPack – Bigdata.com](https://www.ravenpack.com/) – AI-driven analytics platform offering real-time financial data insights and advanced RAG capabilities for investment monitoring  
 - [Kensho Technologies](https://www.kensho.com/) – S&P Global's AI-powered analytics for financial decision-making  
 - [Upstart](https://www.upstart.com/) – AI underwriting for personal and auto loans  
 - [Zest AI](https://www.zest.ai/) – Machine learning credit underwriting platform for lenders  
+- [Datarails](https://www.datarails.com/) – FP&A platform with AI-powered financial planning and analysis tools  
+- [Feedzai](https://feedzai.com) – Real-time machine learning tools for fraud detection and risk management  
+- [ThetaRay](http://www.thetaray.com/) – AI-powered anti-money-laundering transaction monitoring software  
+- [SAP Business AI](https://www.sap.com/products/artificial-intelligence/finance.html) – AI solutions for automating financial tasks and improving decision-making  
+- [Oracle AI in Finance](https://www.oracle.com/erp/ai-financials/what-is-ai-in-finance/) – AI tools for enhanced financial analysis and reporting  
+- [EY.ai](https://www.ey.com/en_gl/ai/ey-ai) – EY's platform integrating AI across audit and assurance services  
+- [AWS AI Services](https://aws.amazon.com/financial-services/) – AI tools supporting financial institutions in data processing and analytics  
+- [Bloomberg Terminal AI Enhancements](https://www.bloomberg.com/professional/product/terminal/) – AI features streamlining analyst workloads and data analysis  
+- [Conductor AI](https://www.conductor.ai/) – AI-driven software assisting with compliance processes in regulated industries  
+- [Fintilect](https://fintilect.com/) – AI-driven recommendations and digital banking platforms for financial services providers  
 
 ---
 
