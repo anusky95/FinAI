@@ -41,7 +41,23 @@
 - [Large Language Models as Financial Analysts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945481) – Evaluates GPT-4o, Claude 3.5 Sonnet, and Gemini Advanced on Q1 2024 financials of major tech firms  
 - [Financial Statement Analysis with Large Language Models](https://arxiv.org/abs/2407.17866) – Shows GPT-4 outperforms analysts in directional earnings prediction  
 - [A Survey of Large Language Models for Financial Applications](https://arxiv.org/abs/2402.14042) – Comprehensive review of LLM use cases across financial NLP, forecasting, and Q&A  
-
+- [Large Language Models as Financial Analysts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945481)
+- [Financial Statement Analysis with Large Language Models](https://arxiv.org/abs/2407.17866)
+- [A Survey of Large Language Models for Financial Applications](https://arxiv.org/abs/2402.14042)
+- [Artificial Intelligence in Finance: A Comprehensive Review](https://link.springer.com/article/10.1007/s43546-023-00618-x)
+- [Intelligent Financial System: How AI is Transforming Finance](https://www.bis.org/publ/work1194.pdf)
+- [Artificial Intelligence in Finance](https://www.researchgate.net/publication/380266484_ARTIFICIAL_INTELLIGENCE_IN_FINANCE)
+- [Artificial Intelligence and its Impact on Financial Markets and Financial Stability](https://www.imf.org/en/News/Articles/2024/09/06/sp090624-artificial-intelligence-and-its-impact-on-financial-markets-and-financial-stability)
+- [Artificial Intelligence in Financial Services (WEF)](https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Financial_Services_2025.pdf)
+- [Re(Visiting) Large Language Models in Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4963618)
+- [Large Language Models for Financial and Investment Management](https://www.pm-research.com/content/iijpormgmt/51/2/211)
+- [Generative AI and Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988553)
+- [Beyond Classification: Financial Reasoning in State-of-the-Art Language Models](https://arxiv.org/abs/2305.01505)
+- [InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning](https://arxiv.org/abs/2309.13064)
+- [PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance](https://arxiv.org/abs/2306.05443)
+- [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+- [Sentiment Trading with Large Language Models](https://www.sciencedirect.com/science/article/pii/S1544612324002575)
+- [FinancialBench: Benchmarking LLMs on Financial Tasks](https://arxiv.org/abs/2405.11817)
 
 
 ---
