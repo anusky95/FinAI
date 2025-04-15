@@ -38,6 +38,12 @@
 - [Leveraging Retrieval-Augmented Generation for Financial Question Answering (Stanford CS224n, 2024)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1246/final-reports/256911814.pdf) - RAG for Financial Q/A
 - [Revolutionizing Finance with Conversational AI](https://www.nature.com/articles/s41599-025-04725-y) - ChatGPT implementation & Challenges
 - [A sentiment analysis approach to the prediction of market volatility](https://www.frontiersin.org/articles/10.3389/frai.2022.836809/full)
+- [Large Language Models as Financial Analysts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945481) – Evaluates GPT-4o, Claude 3.5 Sonnet, and Gemini Advanced on Q1 2024 financials of major tech firms  
+- [Financial Statement Analysis with Large Language Models](https://arxiv.org/abs/2407.17866) – Shows GPT-4 outperforms analysts in directional earnings prediction  
+- [A Survey of Large Language Models for Financial Applications](https://arxiv.org/abs/2402.14042) – Comprehensive review of LLM use cases across financial NLP, forecasting, and Q&A  
+
+
+
 ---
 
 ## 📊 Financial Datasets  
